@@ -39,7 +39,8 @@ demo = gr.Interface(
     inputs=gr.File(label="Upload candidates.jsonl (up to 100,000 candidates)"),
     outputs=gr.File(label="Download submission.csv"),
     title="Redrob Intelligent Candidate Discovery & Ranking System",
-    description="Upload a candidates.jsonl file. The pipeline executes offline deterministic scoring (Skills, Experience, Engagement, Education, and Logistics) to rank the top 100 candidates."
+    description="Upload a candidates.jsonl file. The pipeline executes offline deterministic scoring (Skills, Experience, Engagement, Education, and Logistics) to rank the top 100 candidates.",
+    api_name=False
 )
 
 if __name__ == "__main__":
