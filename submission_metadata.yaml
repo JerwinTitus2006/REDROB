@@ -1,0 +1,21 @@
+team_name: "Cipher Strike"
+primary_contact:
+  name: "Jerwin Titus"
+  email: "titusjerwin@gmail.com"
+  phone: "6380163817"
+github_url: "https://github.com/JerwinTitus2006/REDROB.git"
+sandbox_url: "https://huggingface.co/spaces/JerwinTitus2006/redrob-ranker"
+ai_tools_declared:
+  - Claude
+  - GitHub Copilot
+compute_environment: "Windows PC, CPU only, Python 3.11, 16GB RAM"
+methodology_summary: >
+  Deterministic 5-pillar scoring pipeline: skill fit (30%), experience (25%),
+  Redrob behavioral signals (25%), education (10%), logistics (10%).
+  Features extracted offline with fuzzy skill matching and career description
+  semantic scanning. Hard disqualifier gate filters consulting-only careers,
+  insufficient experience, and zero must-have skill matches. Honeypot detection
+  via multi-signal inconsistency flagging. Template-based reasoning generation
+  referencing actual candidate data. No API calls during ranking step.
+  Designed to surface candidates with production ML/retrieval work
+  regardless of keyword matching.
