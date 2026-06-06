@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0079387,1,0.9355,AI Engineer at Microsoft (Software) with 6.9 YoE; possesses strong skill fit (4/4 must-have clusters); ideal 6.9 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0077337,2,0.9258,Staff Machine Learning Engineer at Paytm (Fintech) with 7.0 YoE; possesses strong skill fit (4/4 must-have clusters); ideal 7.0 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0018499,3,0.924,Senior Machine Learning Engineer at Zomato (Food Delivery) with 7.2 YoE; possesses strong skill fit (3/4 must-have clusters); ideal 7.2 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0099806,4,0.9216,AI Engineer at Mad Street Den (AI/ML) with 4.6 YoE; possesses strong skill fit (3/4 must-have clusters); 4.6 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0041669,5,0.9207,Recommendation Systems Engineer at CRED (Fintech) with 8.0 YoE; possesses strong skill fit (3/4 must-have clusters); ideal 8.0 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0064326,6,0.9156,Search Engineer at Sarvam AI (AI/ML) with 7.6 YoE; possesses strong skill fit (4/4 must-have clusters); ideal 7.6 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0002025,7,0.915,Senior AI Engineer at Apple (Consumer Electronics) with 5.9 YoE; possesses strong skill fit (4/4 must-have clusters); 5.9 YoE in target range; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0081846,8,0.903,Lead AI Engineer at Razorpay (Fintech) with 6.7 YoE; possesses strong skill fit (4/4 must-have clusters); ideal 6.7 YoE; product-company background; career history shows production ML work; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0081053,9,0.9028,NLP Engineer at Glance (AI/ML) with 5.4 YoE; possesses strong skill fit (3/4 must-have clusters); 5.4 YoE in target range; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0052682,10,0.9023,NLP Engineer at Aganitha (AI/ML) with 6.6 YoE; possesses strong skill fit (4/4 must-have clusters); ideal 6.6 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Strongly matches Senior AI Engineer requirements.
+CAND_0055905,11,0.9009,Senior Machine Learning Engineer with 8.1 YoE at Flipkart; shows strong skill fit (4/4 must-have clusters); 8.1 YoE in target range; product-company background; career history shows production ML work; high recruiter responsiveness. Note: based in UK.
+CAND_0095619,12,0.9003,NLP Engineer with 15.6 YoE at Nykaa; shows strong skill fit (2/4 must-have clusters); 15.6 YoE; product-company background; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0042029,13,0.8963,Senior Data Scientist with 6.5 YoE at Flipkart; shows strong skill fit (3/4 must-have clusters); ideal 6.5 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0091909,14,0.8955,Machine Learning Engineer with 6.9 YoE at Rephrase.ai; shows strong skill fit (3/4 must-have clusters); ideal 6.9 YoE; product-company background; career history shows production ML work; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0027691,15,0.8952,NLP Engineer with 6.5 YoE at Haptik; shows strong skill fit (4/4 must-have clusters); ideal 6.5 YoE; active GitHub profile; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0011687,16,0.8916,Senior NLP Engineer with 7.8 YoE at Niramai; shows strong skill fit (3/4 must-have clusters); ideal 7.8 YoE; product-company background; active GitHub profile; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0096142,17,0.8898,Applied ML Engineer with 5.0 YoE at upGrad; shows strong skill fit (4/4 must-have clusters); 5.0 YoE in target range; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Note: 120-day notice period.
+CAND_0071974,18,0.8885,Senior AI Engineer with 7.8 YoE at Netflix; shows strong skill fit (3/4 must-have clusters); ideal 7.8 YoE; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0077285,19,0.8872,Recommendation Systems Engineer with 5.5 YoE at Nykaa; shows strong skill fit (3/4 must-have clusters); 5.5 YoE in target range; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0050876,20,0.8849,Applied ML Engineer with 6.0 YoE at Freshworks; shows strong skill fit (4/4 must-have clusters); ideal 6.0 YoE; product-company background; career history shows production ML work; active GitHub profile. Note: 90-day notice period.
+CAND_0011162,21,0.8848,Recommendation Systems Engineer with 5.8 YoE at upGrad; shows strong skill fit (4/4 must-have clusters); 5.8 YoE in target range; product-company background; career history shows production ML work; high recruiter responsiveness. Note: 90-day notice period.
+CAND_0086022,22,0.8847,Senior Applied Scientist with 5.3 YoE at Sarvam AI; shows strong skill fit (3/4 must-have clusters); 5.3 YoE in target range; product-company background; career history shows production ML work; active GitHub profile. Note: shows consistent profile alignment.
+CAND_0005649,23,0.8839,Senior Data Scientist with 7.4 YoE at Sarvam AI; shows strong skill fit (3/4 must-have clusters); ideal 7.4 YoE; product-company background; career history shows production ML work; active GitHub profile. Note: 90-day notice period.
+CAND_0029367,24,0.8838,Senior Data Scientist with 5.7 YoE at Rephrase.ai; shows strong skill fit (3/4 must-have clusters); 5.7 YoE in target range; product-company background; high recruiter responsiveness. Note: 90-day notice period.
+CAND_0055992,25,0.8838,AI Engineer with 16.9 YoE at CRED; shows strong skill fit (3/4 must-have clusters); 16.9 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Note: based in Australia.
+CAND_0074225,26,0.8835,Machine Learning Engineer with 4.3 YoE at Unacademy; shows strong skill fit (4/4 must-have clusters); 4.3 YoE; product-company background; career history shows production ML work; active GitHub profile; high recruiter responsiveness. Note: 120-day notice period.
+CAND_0075574,27,0.8831,Machine Learning Engineer with 5.7 YoE at Haptik; shows strong skill fit (3/4 must-have clusters); 5.7 YoE in target range; product-company background; career history shows production ML work; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0088025,28,0.8825,Staff Machine Learning Engineer with 8.6 YoE at Yellow.ai; shows strong skill fit (4/4 must-have clusters); 8.6 YoE in target range; product-company background; active GitHub profile; high recruiter responsiveness. Note: 90-day notice period.
+CAND_0072660,29,0.8824,Machine Learning Engineer with 7.1 YoE at Unacademy; shows strong skill fit (3/4 must-have clusters); ideal 7.1 YoE; product-company background. Note: based in Germany.
+CAND_0050454,30,0.8811,AI Engineer with 6.8 YoE at Rephrase.ai; shows strong skill fit (2/4 must-have clusters); ideal 6.8 YoE; product-company background; high recruiter responsiveness. Note: shows consistent profile alignment.
+CAND_0095528,31,0.8798,"Exhibits strong skill fit (4/4 must-have clusters) and 5.3 YoE in target range, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0006418,32,0.8793,"Exhibits strong skill fit (3/4 must-have clusters) and 5.7 YoE in target range, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0053591,33,0.8789,"Exhibits strong skill fit (3/4 must-have clusters) and 5.3 YoE in target range, though restricted by based in Canada. Suitable mid-tier profile match."
+CAND_0070398,34,0.8781,"Exhibits strong skill fit (4/4 must-have clusters) and ideal 7.2 YoE, though restricted by 120-day notice period. Suitable mid-tier profile match."
+CAND_0061655,35,0.877,"Exhibits strong skill fit (3/4 must-have clusters) and 4.6 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0009837,36,0.8755,"Exhibits strong skill fit (3/4 must-have clusters) and 4.3 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0045250,37,0.8742,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 6.6 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0018549,38,0.8741,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 6.8 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0039754,39,0.872,"Exhibits strong skill fit (4/4 must-have clusters) and 16.2 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0047721,40,0.8716,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 7.0 YoE, though restricted by 90-day notice period. Suitable mid-tier profile match."
+CAND_0068811,41,0.8711,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 8.0 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0087630,42,0.868,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 7.2 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0046064,43,0.865,"Exhibits strong skill fit (4/4 must-have clusters) and 8.9 YoE in target range, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0037944,44,0.8644,"Exhibits strong skill fit (4/4 must-have clusters) and 4.9 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0042506,45,0.8634,"Exhibits strong skill fit (3/4 must-have clusters) and 4.2 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0094056,46,0.863,"Exhibits strong skill fit (2/4 must-have clusters) and 5.9 YoE in target range, though restricted by 120-day notice period. Suitable mid-tier profile match."
+CAND_0076163,47,0.8624,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 6.9 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0046525,48,0.861,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 6.1 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0058688,49,0.8608,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 6.7 YoE, though restricted by based in Germany. Suitable mid-tier profile match."
+CAND_0039383,50,0.8602,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 7.1 YoE, though restricted by 90-day notice period. Suitable mid-tier profile match."
+CAND_0000031,51,0.8601,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 6.0 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0006557,52,0.86,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 7.9 YoE, though restricted by 120-day notice period. Suitable mid-tier profile match."
+CAND_0008425,53,0.86,"Exhibits strong skill fit (4/4 must-have clusters) and ideal 7.8 YoE, though restricted by 90-day notice period. Suitable mid-tier profile match."
+CAND_0076831,54,0.8596,"Exhibits strong skill fit (3/4 must-have clusters) and 4.0 YoE, though restricted by 90-day notice period. Suitable mid-tier profile match."
+CAND_0009024,55,0.8595,"Exhibits strong skill fit (3/4 must-have clusters) and 5.2 YoE in target range, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0020877,56,0.8587,"Exhibits strong skill fit (3/4 must-have clusters) and 5.1 YoE in target range, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0005260,57,0.8582,"Exhibits strong skill fit (4/4 must-have clusters) and 5.2 YoE in target range, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0052328,58,0.8575,"Exhibits strong skill fit (4/4 must-have clusters) and ideal 6.5 YoE, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0030031,59,0.8573,"Exhibits strong skill fit (4/4 must-have clusters) and 5.7 YoE in target range, showing reasonable baseline fit. Suitable mid-tier profile match."
+CAND_0042100,60,0.8569,"Exhibits strong skill fit (3/4 must-have clusters) and ideal 7.3 YoE, though restricted by 90-day notice period. Suitable mid-tier profile match."
+CAND_0080766,61,0.8562,"Has 8.8 YoE with strong skill fit (4/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0096172,62,0.8556,"Has 5.2 YoE with strong skill fit (4/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0007009,63,0.8551,"Has 7.9 YoE with strong skill fit (4/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0041610,64,0.852,"Has 6.7 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0044855,65,0.8504,"Has 6.6 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0070202,66,0.8498,"Has 5.1 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0024466,67,0.8482,"Has 5.2 YoE with strong skill fit (3/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0075249,68,0.8481,"Has 6.2 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0036184,69,0.8471,"Has 6.0 YoE with strong skill fit (2/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0040117,70,0.8441,"Has 6.5 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0010257,71,0.844,"Has 6.5 YoE with strong skill fit (4/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0081686,72,0.8438,"Has 6.0 YoE with strong skill fit (4/4 must-have clusters), but held back by based in USA. Positioned as a backup candidate."
+CAND_0030827,73,0.8414,"Has 5.4 YoE with strong skill fit (2/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0087364,74,0.8408,"Has 4.9 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0044883,75,0.8393,"Has 6.3 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0066999,76,0.8392,"Has 5.9 YoE with strong skill fit (2/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0060054,77,0.8387,"Has 6.4 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0066376,78,0.8387,"Has 5.7 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0028793,79,0.8379,"Has 7.2 YoE with strong skill fit (3/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0037566,80,0.8371,"Has 6.9 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0026532,81,0.836,"Has 4.8 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0039838,82,0.8358,"Has 4.9 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0041568,83,0.8346,"Has 5.2 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0092245,84,0.8345,"Has 4.1 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0044222,85,0.8335,"Has 7.7 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0007460,86,0.8334,"Has 4.7 YoE with strong skill fit (3/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0015528,87,0.8324,"Has 7.4 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0017960,88,0.8307,"Has 7.7 YoE with strong skill fit (4/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0007412,89,0.8301,"Has 7.4 YoE with strong skill fit (3/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0084819,90,0.8299,"Has 4.5 YoE with strong skill fit (3/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0049538,91,0.8296,"Has 5.8 YoE with strong skill fit (2/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0064904,92,0.8283,"Has 4.9 YoE with strong skill fit (4/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0009691,93,0.8281,"Has 6.2 YoE with strong skill fit (3/4 must-have clusters), but held back by 120-day notice period. Positioned as a backup candidate."
+CAND_0069905,94,0.8279,"Has 6.6 YoE with strong skill fit (4/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0074735,95,0.8273,"Has 5.5 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0024620,96,0.8268,"Has 5.9 YoE with strong skill fit (3/4 must-have clusters), but held back by based in USA. Positioned as a backup candidate."
+CAND_0078492,97,0.8236,"Has 5.1 YoE with strong skill fit (2/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
+CAND_0033861,98,0.8225,"Has 8.0 YoE with strong skill fit (3/4 must-have clusters), but held back by inactive for 110 days on platform. Positioned as a backup candidate."
+CAND_0013536,99,0.8223,"Has 14.1 YoE with strong skill fit (3/4 must-have clusters), but held back by 90-day notice period. Positioned as a backup candidate."
+CAND_0008239,100,0.8208,"Has 4.0 YoE with strong skill fit (3/4 must-have clusters), but aligns weakly with specific must-have skills. Positioned as a backup candidate."
