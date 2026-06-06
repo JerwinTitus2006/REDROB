@@ -1,3 +1,14 @@
+---
+title: Redrob Ranker
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.36.0
+app_file: app.py
+pinned: false
+---
+
 # Redrob Intelligent Candidate Discovery & Ranking System
 
 ## Problem Statement
